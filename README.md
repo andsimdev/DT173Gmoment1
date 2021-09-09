@@ -12,4 +12,4 @@
 
 <br>
 
-#### För att klona detta repository till datorn, använd terminalen och skriv *git clone*
+#### För att klona detta repository till datorn, använd terminalen och skriv *git clone https://github.com/andsimdev/DT173Gmoment1.git*
