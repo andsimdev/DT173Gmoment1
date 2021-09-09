@@ -1,2 +1,2 @@
 # DT173Gmoment1
-Uppgift, skapa nytt remote repository
+Uppgift i moment 1, skapa nytt remote repository
